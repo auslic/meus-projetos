@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap');
+
+body{
+    font-family: 'Lato', sans-serif;
+    background-color: antiquewhite;
+}
+
+.title{
+    text-align: center;
+    font-size: 36px;
+}
+
+.menu{
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
+
+#task_input {    
+    padding: 5px;
+    border-radius: 10px;
+    font-size: 18px;
+}
+
+#task_button {
+    margin-left: 2vh;
+    padding: 5px;
+    border-radius: 10px;
+    color: white;
+    background-color: black;
+    font-size: 18px;
+}
+
