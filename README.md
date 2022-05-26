@@ -18,3 +18,9 @@ Estou inserindo neste dia 3 projetos que acredito ter criado com todo o meu pote
 - Sistema de naves na linguagem **JavaScript**, um projeto que criei baseado em um curso que estava realizando, o começo dos meus estudos sobre objetos.
 
 Por enquanto é isto, logo mais estou de volta.
+
+------
+
+#### ⭕26 de maio de 2022 
+
+Finalizei todo o conteúdo da faculdade, só resta as provas. Conclui as 2 disciplinas: **Análise e Levantamento de Requisitos de Software** e **Criação e Aplicação de Sistemas**. Estou no Spread Fullstack Developer da DIO, especificamente no módulo de JavaScript. Para me ajudar nos estudos, decidir realizar uma revisão geral até o momento neste repositório.
